@@ -2,19 +2,19 @@
 
 ## Latest Projects
 
-<a href="https://www.bibleplannerapp.com" target="_blank">### BibleApp (Jan 2026)</A>
+### <a href="https://www.bibleplannerapp.com" target="_blank">Bible Reading Plan </A> (Jan 2026)
 A JavaScript mobile-first application for creating a Bible reading plan featuring customizable schedules, 11 versions of the bible, read your daily text right in the app, and view your progress chart to help keep you on track to meet your goals. Check it out at 
 
-### BucketGame (Jan 2026)
+### <a href="https://chrisgorham999.github.io/bucketgame/" target="_blank">Animal Bucket Game</A> (Jan 2026)
 An interactive JavaScript game designed for my son that mimics some of his in-real-life play activities. He loves it!
 
-### FlorenceMaeGifts Tracker (Sep 2022 - Jan 2026)
+### FlorenceMaeGifts Tracker (Sep 2022 - Jan 2026) 
 A comprehensive sales and accounting tracking application for my wife's Etsy business with comprehensive stats and category totals that makes tax time a breeze.
 
-### Job Tracker (Jan 2026)
+### Job Tracker (Jan 2026) 
 A comprehensive mobile-first application for construction company project management, enabling tracking of jobs, resources, and progress. 
 
-### FlorenceMaeGifts.com (Sep 2022)
+### <a href="https://www.florencemaegifts.com" target="_blank">FlorenceMaeGifts.com</A> (Sep 2022)
 An artist page for my wife's Etsy business. https://www.florencemaegifts.com
 
 ## Older Projects
