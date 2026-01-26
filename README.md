@@ -3,7 +3,7 @@
 ## Latest Projects
 
 ### <a href="https://www.bibleplannerapp.com" target="_blank">Bible Reading Plan </A> (Jan 2026)
-A JavaScript mobile-first application for creating a Bible reading plan featuring customizable schedules, 11 versions of the bible, read your daily text right in the app, and view your progress chart to help keep you on track to meet your goals. Check it out at 
+A mobile-first application for creating a Bible reading plan featuring customizable schedules, 11 versions of the bible, read your daily text right in the app, and view your progress chart to help keep you on track to meet your goals.
 
 ### <a href="https://chrisgorham999.github.io/bucketgame/" target="_blank">Animal Bucket Game</A> (Jan 2026)
 An interactive JavaScript game designed for my son that mimics some of his in-real-life play activities. He loves it!
