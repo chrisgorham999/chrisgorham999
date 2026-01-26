@@ -2,10 +2,10 @@
 
 ## Latest Projects
 
-<a href="https://www.bibleplannerapp.com" target="_blank">Bible Reading Plan </A> (Jan 2026) - A mobile-first application for creating a fully customized Bible reading plan.
-<a href="https://chrisgorham999.github.io/bucketgame/" target="_blank">Animal Bucket Game</A> (Jan 2026) - An Ipad game for toddlers who are learning their animals. My son loves it.
-FlorenceMaeGifts Tracker (Sep 2022 - Jan 2026) - A comprehensive sales and accounting application for my wife's Etsy business with actionable stats and category totals that makes tax time a breeze.
-Job Tracker (Jan 2026) - A mobile-first application for construction company project management, enabling tracking of jobs, resources, and progress plus a flagging system for requesting updates on any item.
+<a href="https://www.bibleplannerapp.com" target="_blank">Bible Reading Plan </A> (Jan 2026) - A mobile-first application for creating a fully customized Bible reading plan.<br>
+<a href="https://chrisgorham999.github.io/bucketgame/" target="_blank">Animal Bucket Game</A> (Jan 2026) - An Ipad game for toddlers who are learning their animals. My son loves it.<br>
+FlorenceMaeGifts Tracker (Sep 2022 - Jan 2026) - A comprehensive sales and accounting application for my wife's Etsy business with actionable stats and category totals that makes tax time a breeze.<br>
+Job Tracker (Jan 2026) - A mobile-first application for construction company project management, enabling tracking of jobs, resources, and progress plus a flagging system for requesting updates on any item.<br>
 
 ## Older Projects
 
