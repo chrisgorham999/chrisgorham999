@@ -4,8 +4,8 @@
 
 <a href="https://www.bibleplannerapp.com" target="resource window">Bible Reading Plan </A> (Jan 2026) - A mobile-first application for creating a fully customized Bible reading plan.<br>
 <a href="https://chrisgorham999.github.io/bucketgame/" target="resource window">Animal Bucket Game</A> (Jan 2026) - An Ipad game for toddlers who are learning their animals. My son loves it.<br>
-FlorenceMaeGifts Tracker (Sep 2022 - Jan 2026) - A comprehensive sales and accounting application for my wife's Etsy business with actionable stats and category totals that makes tax time a breeze.<br>
-Job Tracker (Jan 2026) - A mobile-first application for construction company project management, enabling tracking of jobs, resources, and progress plus a flagging system for requesting updates on any item.<br>
+<a href="https://fmg-tracker.vercel.app/session/sign-in" target="resource window">FlorenceMaeGifts Tracker </A> (Sep 2022 - Jan 2026) - A comprehensive sales and accounting application for my wife's Etsy business with actionable stats and category totals that makes tax time a breeze.<br>
+<a href="https://chrisgorham999.github.io/JobTracker/" target="resource window">Job Tracker</A> (Jan 2026) - A mobile-first application for construction company project management, enabling tracking of jobs, resources, and progress plus a flagging system for requesting updates on any item.<br>
 
 ## Older Projects
 
