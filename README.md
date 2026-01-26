@@ -12,7 +12,7 @@
 
 ## School Projects (Bellevue University Web Development Program)
 
-💻 <a href="https://bcrs-4xdu.onrender.com" target="resource window">Bob's Computer Repair Shop</A> (Sep 2023) - A comprehensive web application focused on computer repair shop management, built on the MEAN stack. Includes features for tracking repairs, customer management, and inventory.
+💻 <a href="https://bcrs-4xdu.onrender.com" target="resource window">Bob's Computer Repair Shop</A> (Sep 2023) - A comprehensive web application focused on computer repair shop management.
 
 ---
 *Last updated: January 2026*
