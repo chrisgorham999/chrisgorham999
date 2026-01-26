@@ -10,7 +10,7 @@
 
 🎨 <a href="https://www.florencemaegifts.com" target="resource window">FlorenceMaeGifts.com</A> (Sep 2022) - An artist page for my wife's Etsy business.
 
-## School Projects (Bellevue University Web Development Program)
+## School Projects (Bellevue University)
 
 💻 <a href="https://bcrs-4xdu.onrender.com" target="resource window">Bob's Computer Repair Shop</A> (Sep 2023) - A comprehensive web application focused on computer repair shop management.
 
