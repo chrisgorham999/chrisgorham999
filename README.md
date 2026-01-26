@@ -1,4 +1,4 @@
-# Chris Gorham 
+# Hey! I'm Chris.
 
 ## Latest Projects
 
