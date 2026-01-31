@@ -1,6 +1,6 @@
 # Hey! I'm Chris.
 
-Amateur / hobbyist software developer. Self-taught BASIC in 1993, HTML/Javascript in 1995, and then took an almost 20 year break from coding while I was in the military. Completed the Bellevue University Web Dev undergrad program in 2023 and now I'm just tinkering with things, vibe coding, and turning my old spreadsheets into apps.
+Amateur / hobbyist software developer. Self-taught BASIC in 1995, HTML/Javascript in 1997, and then took an almost 20 year break from coding while I was in the military. Completed the Bellevue University Web Dev undergrad program in 2023 and now I'm just tinkering with things, vibe coding, and turning my old spreadsheets into apps.
 
 ## 🚀 Featured Projects
 
