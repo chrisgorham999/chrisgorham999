@@ -1,18 +1,45 @@
 # Hey! I'm Chris.
 
-## Latest Projects
+Amateur / hobbyist software developer. Just tinkering with things, vibe coding, and turning my old spreadsheets into apps.
 
-📖 <a href="https://www.bibleplannerapp.com" target="_blank">Bible Reading Plan </A> (Jan 2026) - A mobile application for creating a fully personalized Bible reading plan.<br>
-🦁 <a href="https://chrisgorham999.github.io/bucketgame/" target="resource window">Animal Bucket Game</A> (Jan 2026) - A simple iPad game for toddlers who are learning their animals. My son loves it! :) <br>
-📒 <a href="https://fmg-tracker.vercel.app/session/sign-in" target="resource window">FlorenceMaeGifts Tracker </A> (Sep 2022 - Jan 2026) - An accounting, stats, and taxes application for my wife's Etsy business.<br>
-🏗️ <a href="https://chrisgorham999.github.io/JobTracker/" target="resource window">Job Tracker</A> (Jan 2026) - A mobile application for construction company project management. <br>
-## Older Projects
+## 🚀 Featured Projects
 
-🎨 <a href="https://www.florencemaegifts.com" target="resource window">FlorenceMaeGifts.com</A> (Sep 2022) - An artist page for my wife's Etsy business.
+📖 **[Bible Reading Plan](https://www.bibleplannerapp.com)** (Jan 2026) - A mobile application for creating a fully personalized Bible reading plan.
 
-## School Projects (Bellevue University)
+🦁 **[Animal Bucket Game](https://chrisgorham999.github.io/bucketgame/)** (Jan 2026) - A simple iPad game for toddlers who are learning their animals. My son loves it! :)
 
-💻 <a href="https://bcrs-4xdu.onrender.com" target="resource window">Bob's Computer Repair Shop</A> (Sep 2023) - A comprehensive web application focused on computer repair shop management.
+📒 **[FlorenceMaeGifts Tracker](https://fmg-tracker.vercel.app/session/sign-in)** (Sep 2022 - Jan 2026) - An accounting, stats, and taxes application for my wife's Etsy business.
 
----
-*Last updated: January 2026*
+🏗️ **[Job Tracker](https://chrisgorham999.github.io/JobTracker/)** (Jan 2026) - A mobile application for construction company project management.
+
+## 📚 Additional Projects
+
+### Personal Projects
+🎨 **[FlorenceMaeGifts.com](https://www.florencemaegifts.com)** (Sep 2022) - An artist page for my wife's Etsy business.
+
+### Academic Projects
+💻 **[Bob's Computer Repair Shop](https://bcrs-4xdu.onrender.com)** (Sep 2023) - A comprehensive web application focused on computer repair shop management.
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisgorham999&show_icons=true&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chrisgorham999&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisgorham999&layout=compact&theme=dark)
+
+## 🛠️ Technical Skills
+
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js
+- **Platforms:** Mobile Applications, Web Development
+- **Tools:** Git, GitHub, Vercel, Render
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisgorham999&bg_color=121212&color=ffffff&line=00b3ff&point=ffffff&area=true&hide_border=true" />
+</p>
+
+## 📄 Last Updated
+
+*January 31, 2026*
+
