@@ -28,7 +28,7 @@ Amateur / hobbyist software developer. Just tinkering with things, vibe coding, 
 - **Frameworks & Libraries:** React, Node.js
 - **Platforms:** Mobile Applications, Web Development
 - **Tools:** Git, GitHub, Vercel, Render
-
+<br>
 ## 📈 Contribution Activity
 
 <p align="center">
