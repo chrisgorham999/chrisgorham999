@@ -20,6 +20,7 @@ Amateur / hobbyist software developer. Just tinkering with things, vibe coding, 
 ### Academic Projects
 💻 **[Bob's Computer Repair Shop](https://bcrs-4xdu.onrender.com)** (Sep 2023) - A comprehensive web application focused on computer repair shop management.
 
+<br>
 ## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisgorham999&show_icons=true&theme=dark)
