@@ -29,6 +29,7 @@ Amateur / hobbyist software developer. Just tinkering with things, vibe coding, 
 - **Platforms:** Mobile Applications, Web Development
 - **Tools:** Git, GitHub, Vercel, Render
 <br>
+
 ## 📈 Contribution Activity
 
 <p align="center">
