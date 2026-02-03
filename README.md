@@ -2,7 +2,7 @@
 
 Amateur / hobbyist software developer. Self-taught BASIC in 1995, HTML/Javascript/VB in 1996, and then took an almost 20 year break from coding while I was in the military. Completed the Bellevue University Web Dev undergrad program in 2023 and now I'm just tinkering with things, vibe coding, and turning my old spreadsheets into apps.
 
-## 🚀 Featured Projects
+## 🚀 Recent Projects
 
 📖 **[Bible Reading Plan](https://www.bibleplannerapp.com)** (Jan 2026) - A mobile application for creating a fully personalized Bible reading plan.
 
@@ -14,7 +14,7 @@ Amateur / hobbyist software developer. Self-taught BASIC in 1995, HTML/Javascrip
 
 🏗️ **[Job Tracker](https://chrisgorham999.github.io/JobTracker/)** (Jan 2026) - A mobile application for construction company project management.
 
-## 📚 Additional Projects
+## 📚 Older Projects
 
 ### Personal Projects
 🎨 **[FlorenceMaeGifts.com](https://www.florencemaegifts.com)** (Sep 2022) - An artist page for my wife's Etsy business.
