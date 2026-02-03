@@ -16,11 +16,9 @@ Amateur / hobbyist software developer. Self-taught BASIC in 1995, HTML/Javascrip
 
 ## 📚 Older Projects
 
-### Personal Projects
 🎨 **[FlorenceMaeGifts.com](https://www.florencemaegifts.com)** (Sep 2022) - An artist page for my wife's Etsy business.
 
-### Academic Projects
-💻 **[Bob's Computer Repair Shop](https://bcrs-4xdu.onrender.com)** (Sep 2023) - A comprehensive web application focused on computer repair shop management.
+💻 **[Bob's Computer Repair Shop](https://bcrs-4xdu.onrender.com)** (Sep 2023) - A comprehensive web application focused on computer repair shop management. Final project for Bellevue Web Dev program.
 
 <br>
 
