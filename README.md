@@ -10,11 +10,11 @@ Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and 
 
 ✝️ **[CBF Church](https://www.cbfchurch.com)** (Jan 2026) - A church website where authorized users can add new blog posts and upload photos with zero code.
 
-🦁 **[Animal Bucket Game](https://chrisgorham999.github.io/bucketgame/)** (Jan 2026) - A simple iPad game for toddlers who are learning their animals. My son loves it! :)
+🦁 **[Animal Bucket Game](https://99redder.github.io/bucketgame/)** (Jan 2026) - A simple iPad game for toddlers who are learning their animals. My son loves it! :)
 
 📒 **[FlorenceMaeGifts Tracker](https://fmg-tracker.vercel.app/session/sign-in)** (Sep 2022 - Jan 2026) - An accounting, stats, and taxes application for my wife's Etsy business.
 
-🏗️ **[Job Tracker](https://chrisgorham999.github.io/JobTracker/)** (Jan 2026) - A mobile application for construction company project management.
+🏗️ **[Job Tracker](https://99redder.github.io/JobTracker/)** (Jan 2026) - A mobile application for construction company project management.
 
 ## 📚 Older Projects
 
