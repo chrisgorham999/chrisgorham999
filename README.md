@@ -4,7 +4,7 @@ Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and 
 
 ## 🚀 Recent Projects
 
-📈 **[Stock Stickies](https://chrisgorham999.github.io/Stock-Stickies/)** (Jan 2026) - A stock trading notes and portfolio tracking application. I use it every day!
+📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - A stock trading notes and portfolio tracking application. I use it every day!
 
 📖 **[Bible Reading Plan](https://www.bibleplannerapp.com)** (Jan 2026) - A mobile application for creating a fully personalized Bible reading plan.
 
