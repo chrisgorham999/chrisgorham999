@@ -29,7 +29,7 @@ Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and 
 - **Languages:** JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React, Node.js
 - **Platforms:** Mobile Applications, Web Development
-- **Tools:** Git, GitHub, Vercel, Render
+- **Tools:** Git, GitHub, Vercel, Render, Claude Code, Codex, OpenClaw, Neon, TiDB
 <br>
 
 ## 📈 Contribution Activity
