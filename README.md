@@ -1,6 +1,6 @@
 # Hey! I'm Red.
 
-Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and Visual Basic in the mid 90s and then took an almost 20 year break from coding while I was in the military. After retiring, I completed the Bellevue University Web Dev undergrad program in 2023 and now I'm just vibe coding, making custom iPad games for my kids, and turning my old spreadsheets into web apps.
+Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and Visual Basic in the mid 90s and then took an almost 20 year break from coding while I was in the military. After retiring, I completed an online web dev undergrad program in 2023 and now I'm just vibe coding, making custom iPad games for my kids, and turning my old spreadsheets into web apps.
 
 ## 🚀 Recent Projects
 
