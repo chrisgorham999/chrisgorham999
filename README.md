@@ -30,12 +30,6 @@ Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and 
 - **Tools:** Git, GitHub, Vercel, Render, Claude Code, Codex, OpenClaw, Neon, TiDB
 <br>
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=99redder&bg_color=121212&color=ffffff&line=00b3ff&point=ffffff&area=true&hide_border=true" />
-</p>
-
 ## 📄 Last Updated
 
 *04 February, 2026*
