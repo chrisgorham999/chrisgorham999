@@ -12,13 +12,13 @@ Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and 
 
 🦁 **[Game Hub](https://www.gordongamehub.com)** (Jan 2026) - A hub for all the iPad games I've made for my son.
 
-📒 **[FlorenceMaeGifts Tracker](https://fmg-tracker.vercel.app/session/sign-in)** (Sep 2022 - Jan 2026) - An accounting, stats, and taxes application for my wife's Etsy business.
+📒 **[FlorenceMaeGifts Tracker](https://fmg-tracker.vercel.app/session/sign-in)** (Sep 2022 - Jan 2026) - An accounting, stats, and taxes application for my wife's crocheting business.
 
 🏗️ **[Job Tracker](https://99redder.github.io/JobTracker/)** (Jan 2026) - A mobile application for construction company project management.
 
 ## 📚 Older Projects
 
-🎨 **[FlorenceMaeGifts.com](https://www.florencemaegifts.com)** (Sep 2022) - An artist page for my wife's Etsy business.
+🎨 **[FlorenceMaeGifts.com](https://www.florencemaegifts.com)** (Sep 2022) - An artist page and e-commerce site for my wife's crocheting business.
 
 <br>
 
