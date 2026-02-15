@@ -4,6 +4,8 @@ Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and 
 
 ## 🚀 Recent Projects
 
+🧩 **[OpenClaw Dashboard Security Audit Button](https://github.com/99redder/openclaw-dashboard-security-audit-button-skill)** (Feb 2026) - A reusable OpenClaw skill that adds a Security Audit dashboard button with clear status states and chat-posted audit results.
+
 📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - A stock trading notes and portfolio tracking application. I use it every day!
 
 📖 **[Bible Reading Plan](https://www.bibleplannerapp.com)** (Jan 2026) - A mobile application for creating a fully personalized Bible reading plan.
@@ -32,5 +34,5 @@ Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and 
 
 ## 📄 Last Updated
 
-*04 February, 2026*
+*15 February, 2026*
 
