@@ -4,8 +4,6 @@ Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and 
 
 ## 🚀 Recent Projects
 
-🟢 **[OpenClaw Dashboard Gateway Start Button][oc-gateway-start-skill]** (Feb 2026) - A reusable OpenClaw skill that adds a Gateway Start dashboard button with clear status states and chat-posted command output.
-
 🧩 **[OpenClaw Security Audit Button][oc-audit-skill]** (Feb 2026) - An OpenClaw skill that adds a Security Audit (--deep) dashboard button with clear status states and chat-posted audit results.
 
 📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - A stock trading notes and portfolio tracking application. I use it every day!
@@ -37,6 +35,4 @@ Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and 
 ## 📄 Last Updated
 
 *15 February, 2026*
-
-[oc-gateway-start-skill]: https://github.com/99redder/openclaw-dashboard-gateway-start-button-skill
 [oc-audit-skill]: https://github.com/99redder/openclaw-dashboard-security-audit-button-skill
