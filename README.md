@@ -4,7 +4,7 @@ Amateur / hobbyist software developer. Self-taught BASIC, HTML, Javascript, and 
 
 ## 🚀 Recent Projects
 
-🧩 **[OpenClaw Dashboard Security Audit Button][oc-audit-skill]** (Feb 2026) - A reusable OpenClaw skill that adds a Security Audit dashboard button with clear status states and chat-posted audit results.
+🧩 **[OpenClaw Dashboard Security Audit Button][oc-audit-skill]** (Feb 2026) - An OpenClaw skill that adds a Security Audit dashboard button with clear status states and chat-posted audit results.
 
 📈 **[Stock Stickies](https://www.stockstickies.com)** (Jan 2026) - A stock trading notes and portfolio tracking application. I use it every day!
 
