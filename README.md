@@ -1,6 +1,8 @@
 # Hey! I'm Red.
 
-Amateur / hobbyist software developer turned small business founder. Self-taught BASIC, HTML, Javascript, and Visual Basic in the mid 90s and then took an almost 20 year break from coding while I was in the military. After retiring, I completed an online web dev undergrad program in 2023 and started vibe coding shortly thereafter, making custom iPad games for my kids and turning my old spreadsheets into web apps. In February 2026, I decided to start [Eastern Shore AI](https://www.easternshore.ai) to help people in my area install AI agents like OpenClaw, learn about and get started with the latest AI technologies, and help businesses develop their own automation flows and web applications to save them money. We're a small company, just four employees including myself. And in true AI fashion, I am the only human employee. The others are AI agents utilizing OpenClaw that handle customer service, social media, community management, and of course - coding! Want to find out how AI agents can help your business? Let's connect!
+Retired military veteran turned small business founder. Self-taught coding in the 90s, took a 20-year break during my service, then finished a web dev degree in 2023. Started vibe coding custom apps for my kids, then launched [Eastern Shore AI, LLC](https://www.easternshore.ai) in February 2026 to help local businesses harness AI agents and automation.
+
+We're a team of 4 — me plus 3 AI agents handling customer service, social media, and coding. Want to see what AI agents can do for your business? Let's connect!
 
 ## 🚀 Recent Projects
 
