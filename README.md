@@ -2,7 +2,7 @@
 
 Retired military veteran turned small business founder. Self-taught coding in the 90s, took a 20-year break during my service, then finished a web dev degree in 2023. Started vibe coding custom apps for my kids, then launched [Eastern Shore AI, LLC](https://www.easternshore.ai) in February 2026 to help local businesses harness AI agents and automation.
 
-We're a team of 4 — me plus 3 AI agents handling customer service, social media, and coding. Want to see what AI agents can do for your business? Let's connect!
+We're a team of 4 — but in true AI fashion, I am the only human employee. The others are AI agents that handle customer service, social media, and coding. Want to see what AI agents can do for your business? Let's connect!
 
 ## 🚀 Recent Projects
 
